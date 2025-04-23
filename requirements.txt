@@ -11,3 +11,5 @@ dowhy
 tabulate
 datasets
 Levenshtein
+codebleu
+tree-sitter-python-0.23.0
