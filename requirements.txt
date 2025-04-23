@@ -9,3 +9,5 @@ scipy
 pymysql
 dowhy
 tabulate
+datasets
+Levenshtein
